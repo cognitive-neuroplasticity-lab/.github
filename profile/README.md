@@ -26,27 +26,27 @@ The purpose of this lab is to translate research questions into structured, repr
 
 ---
 
-## Planned Repository Roadmap
+## Repository Roadmap
 
 ## Track A: Psychedelic Neuroplasticity
 
 ### psilocybin_repo1-psilocybin-dataset-readiness
 
-Audit and characterize the OpenNeuro ds006072 psilocybin dataset to establish technical familiarity, metadata understanding, and future analysis feasibility.
+Completed readiness project auditing and characterizing the OpenNeuro **ds006072** psilocybin dataset. Established familiarity with metadata structure, repeated-measures design, participant/session organization, documentation quality, and future analysis feasibility.
 
-### psilocybin_repo2-functional-connectivity-variability
+### psilocybin_repo2-functional-connectivity-variability (upcoming)
 
 Explore how large-scale brain networks reorganize differently across individuals following psilocybin exposure.
 
-### psilocybin_repo3-acute-vs-postacute-trajectories
+### psilocybin_repo3-acute-vs-postacute-trajectories (upcoming)
 
 Examine differences in brain organization across acute and follow-up time points.
 
-### psilocybin_repo4-neural-cognitive-correspondence
+### psilocybin_repo4-neural-cognitive-correspondence (upcoming)
 
 Study when changes in large-scale brain organization align with preserved or altered cognitive functioning.
 
-### psilocybin_repo5-reproducibility-analysis
+### psilocybin_repo5-reproducibility-analysis (upcoming)
 
 Evaluate how preprocessing and analytical decisions influence conclusions in psilocybin neuroimaging research.
 
@@ -56,21 +56,21 @@ Evaluate how preprocessing and analytical decisions influence conclusions in psi
 
 ### vestibular-network_repo1-vestibular-dataset-readiness
 
-Identify and audit secondary datasets containing resting-state neuroimaging and spatial cognition measures relevant to vestibular-network research.
+Completed readiness project evaluating the **ID1000 (AOMIC / ds003097)** dataset as a practical foundation for future vestibular-network research. Established dataset suitability, modality inventory, vestibular ROI feasibility, conceptual analysis pathways, and future roadmap.
 
-### vestibular-network_repo2-network-topology-variability
+### vestibular-network_repo2-network-topology-variability (upcoming)
 
 Examine individual differences in vestibular-related functional network topology using normative neuroimaging data.
 
-### vestibular-network_repo3-spatial-cognition-mapping
+### vestibular-network_repo3-spatial-cognition-mapping (upcoming)
 
 Test relationships between vestibular-network organization and performance in mental rotation, perspective-taking, and spatial transformation tasks.
 
-### vestibular-network_repo4-predictive-modelling
+### vestibular-network_repo4-predictive-modelling (upcoming)
 
 Investigate whether vestibular-network features predict individual differences in spatially grounded cognitive performance.
 
-### vestibular-network_repo5-reproducibility-analysis
+### vestibular-network_repo5-reproducibility-analysis (upcoming)
 
 Evaluate how preprocessing, ROI definitions, and modeling choices influence conclusions in vestibular-network analyses.
 
@@ -78,12 +78,18 @@ Evaluate how preprocessing, ROI definitions, and modeling choices influence conc
 
 ## Build Strategy
 
-Repositories will be developed in alternating sequence across both tracks to demonstrate sustained focus in psychedelic neuroplasticity and vestibular-spatial network neuroscience.
+Repositories are being developed in alternating sequence across both tracks to demonstrate sustained focus in:
 
-Example progression:
+* psychedelic neuroplasticity
+* vestibular-spatial network neuroscience
+
+Current completed progression:
 
 1. psilocybin_repo1
 2. vestibular-network_repo1
+
+Planned next phase:
+
 3. psilocybin_repo2
 4. vestibular-network_repo2
 
@@ -97,10 +103,10 @@ Meaningful research begins with clear questions, disciplined methods, and sustai
 
 ## Current Status
 
-Foundation stage: transitioning from completed neuroimaging methods training into proposal-aligned research repositories. First planned project: **psilocybin_repo1-psilocybin-dataset-readiness**.
+Active build stage: two foundational repositories completed, with analysis-focused expansion repositories beginning next.
 
 ---
 
 ## Maintained By
 
-**Aditya Sundaray**
+Aditya Sundaray
