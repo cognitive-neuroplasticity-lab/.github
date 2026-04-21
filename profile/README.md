@@ -1,39 +1,106 @@
 # Cognitive Neuroplasticity Lab
 
-An independent research portfolio exploring how cognition changes through neuroplasticity, learning, altered states, and targeted interventions. This organization is dedicated to developing research-oriented projects at the intersection of neuroscience, psychology, and computational methods.
+A public research portfolio focused on how neuroplasticity shapes cognition across individuals, contexts, and brain systems. This organization develops proposal-driven repositories spanning altered states, sensory systems, learning, and targeted interventions through the combined lenses of cognitive neuroscience, neuroimaging, psychology, and computational analysis.
+
+---
 
 ## Mission
 
-The purpose of this lab is to translate scientific curiosity into structured research work. It serves as a home for proposal-driven repositories, conceptual models, pilot analyses, and reproducible projects designed to grow into future doctoral-level research.
+The purpose of this lab is to translate research questions into structured, reproducible public work. It serves as a home for dataset-readiness projects, exploratory analyses, conceptual frameworks, and methodologically grounded repositories designed to mature into future doctoral-level research.
+
+---
 
 ## Research Themes
 
 * Cognitive neuroplasticity
+* Inter-individual variability in cognitive outcomes
+* Brain organization and functional connectivity
+* Large-scale network neuroscience
+* Psychedelic science and psilocybin research
+* Vestibular cognition and spatial representation
 * Learning, memory, and adaptation
-* Brain-behavior relationships
+* Cognitive control and flexibility
+* Longitudinal brain-behavior trajectories
 * Computational neuroscience
-* Psychedelic science and altered states
-* Mental health and therapeutic mechanisms
-* Neuroimaging for cognitive outcomes
-* Experimental design and open science
+* Open and reproducible science
 
-## Planned Repositories
+---
 
-* Psilocybin-Induced Neuroplasticity: Conceptual Research Framework
-* Cognitive Outcomes and Behavioral Task Design
-* Literature Mapping in Neuroplasticity Research
-* Pilot Neuroimaging Analysis Projects
-* Reproducible Proposal Materials
-* Computational Models of Cognitive Change
+## Planned Repository Roadmap
+
+## Track A: Psychedelic Neuroplasticity
+
+### psilocybin_repo1-psilocybin-dataset-readiness
+
+Audit and characterize the OpenNeuro ds006072 psilocybin dataset to establish technical familiarity, metadata understanding, and future analysis feasibility.
+
+### psilocybin_repo2-functional-connectivity-variability
+
+Explore how large-scale brain networks reorganize differently across individuals following psilocybin exposure.
+
+### psilocybin_repo3-acute-vs-postacute-trajectories
+
+Examine differences in brain organization across acute and follow-up time points.
+
+### psilocybin_repo4-neural-cognitive-correspondence
+
+Study when changes in large-scale brain organization align with preserved or altered cognitive functioning.
+
+### psilocybin_repo5-reproducibility-analysis
+
+Evaluate how preprocessing and analytical decisions influence conclusions in psilocybin neuroimaging research.
+
+---
+
+## Track B: Vestibular and Spatial Neuroplasticity
+
+### vestibular-network_repo1-vestibular-dataset-readiness
+
+Identify and audit secondary datasets containing resting-state neuroimaging and spatial cognition measures relevant to vestibular-network research.
+
+### vestibular-network_repo2-network-topology-variability
+
+Examine individual differences in vestibular-related functional network topology using normative neuroimaging data.
+
+### vestibular-network_repo3-spatial-cognition-mapping
+
+Test relationships between vestibular-network organization and performance in mental rotation, perspective-taking, and spatial transformation tasks.
+
+### vestibular-network_repo4-predictive-modelling
+
+Investigate whether vestibular-network features predict individual differences in spatially grounded cognitive performance.
+
+### vestibular-network_repo5-reproducibility-analysis
+
+Evaluate how preprocessing, ROI definitions, and modeling choices influence conclusions in vestibular-network analyses.
+
+---
+
+## Build Strategy
+
+Repositories will be developed in alternating sequence across both tracks to demonstrate sustained focus in psychedelic neuroplasticity and vestibular-spatial network neuroscience.
+
+Example progression:
+
+1. psilocybin_repo1
+2. vestibular-network_repo1
+3. psilocybin_repo2
+4. vestibular-network_repo2
+
+---
 
 ## Why This Organization Exists
 
-Strong research begins with clear questions, disciplined methods, and the courage to build before formal opportunities arrive. This lab represents an ongoing commitment to independent preparation for meaningful contributions to neuroscience and mental health science.
+Meaningful research begins with clear questions, disciplined methods, and sustained execution. This lab represents an ongoing commitment to building genuine scientific readiness before formal doctoral opportunities begin.
+
+---
 
 ## Current Status
 
-Foundation stage: building ideas, refining questions, and converting long-term research goals into concrete public work.
+Foundation stage: transitioning from completed neuroimaging methods training into proposal-aligned research repositories. First planned project: **psilocybin_repo1-psilocybin-dataset-readiness**.
+
+---
 
 ## Maintained By
 
-Aditya Sundaray
+**Aditya Sundaray**
