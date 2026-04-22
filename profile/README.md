@@ -34,9 +34,9 @@ The purpose of this lab is to translate research questions into structured, repr
 
 Completed readiness project auditing and characterizing the OpenNeuro **ds006072** psilocybin dataset. Established familiarity with metadata structure, repeated-measures design, participant/session organization, documentation quality, and future analysis feasibility.
 
-### psilocybin_repo2-functional-connectivity-variability (upcoming)
+### psilocybin_repo2-functional-connectivity-variability
 
-Explore how large-scale brain networks reorganize differently across individuals following psilocybin exposure.
+Completed analysis project demonstrating real resting-state functional connectivity workflows, subject-level matrix construction, cross-subject variability profiling, and scalable neuroimaging pipeline design within the psilocybin dataset.
 
 ### psilocybin_repo3-acute-vs-postacute-trajectories (upcoming)
 
@@ -58,9 +58,9 @@ Evaluate how preprocessing and analytical decisions influence conclusions in psi
 
 Completed readiness project evaluating the **ID1000 (AOMIC / ds003097)** dataset as a practical foundation for future vestibular-network research. Established dataset suitability, modality inventory, vestibular ROI feasibility, conceptual analysis pathways, and future roadmap.
 
-### vestibular-network_repo2-network-topology-variability (upcoming)
+### vestibular-network_repo2-network-topology-variability
 
-Examine individual differences in vestibular-related functional network topology using normative neuroimaging data.
+Completed analysis project examining inter-individual differences in functional network topology using open resting-state fMRI workflows, graph metrics, and scalable vestibular-network modelling.
 
 ### vestibular-network_repo3-spatial-cognition-mapping (upcoming)
 
@@ -87,11 +87,13 @@ Current completed progression:
 
 1. psilocybin_repo1
 2. vestibular-network_repo1
+3. psilocybin_repo2
+4. vestibular-network_repo2
 
 Planned next phase:
 
-3. psilocybin_repo2
-4. vestibular-network_repo2
+5. psilocybin_repo3
+6. vestibular-network_repo3
 
 ---
 
@@ -103,7 +105,7 @@ Meaningful research begins with clear questions, disciplined methods, and sustai
 
 ## Current Status
 
-Active build stage: two foundational repositories completed, with analysis-focused expansion repositories beginning next.
+Active build stage: four repositories completed across readiness and analysis phases, with longitudinal and cognition-linked projects next in development.
 
 ---
 
