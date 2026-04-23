@@ -38,9 +38,9 @@ Completed readiness project auditing and characterizing the OpenNeuro **ds006072
 
 Completed analysis project demonstrating real resting-state functional connectivity workflows, subject-level matrix construction, cross-subject variability profiling, and scalable neuroimaging pipeline design within the psilocybin dataset.
 
-### psilocybin_repo3-acute-vs-postacute-trajectories (upcoming)
+### psilocybin_repo3-acute-vs-postacute-trajectories
 
-Examine differences in brain organization across acute and follow-up time points.
+Completed temporal analysis project examining acute and post-acute functional connectivity trajectories, recovery versus persistence patterns, cross-study clustering, and robustness of time-resolved psilocybin effects.
 
 ### psilocybin_repo4-neural-cognitive-correspondence (upcoming)
 
@@ -62,9 +62,9 @@ Completed readiness project evaluating the **ID1000 (AOMIC / ds003097)** dataset
 
 Completed analysis project examining inter-individual differences in functional network topology using open resting-state fMRI workflows, graph metrics, and scalable vestibular-network modelling.
 
-### vestibular-network_repo3-spatial-cognition-mapping (upcoming)
+### vestibular-network_repo3-spatial-cognition-mapping
 
-Test relationships between vestibular-network organization and performance in mental rotation, perspective-taking, and spatial transformation tasks.
+Completed cognition-focused analysis project linking vestibular-network organization with spatial performance, navigation strategy clustering, regional signatures, and reproducibility testing.
 
 ### vestibular-network_repo4-predictive-modelling (upcoming)
 
@@ -89,11 +89,13 @@ Current completed progression:
 2. vestibular-network_repo1
 3. psilocybin_repo2
 4. vestibular-network_repo2
+5. psilocybin_repo3
+6. vestibular-network_repo3
 
 Planned next phase:
 
-5. psilocybin_repo3
-6. vestibular-network_repo3
+7. psilocybin_repo4
+8. vestibular-network_repo4
 
 ---
 
@@ -105,7 +107,7 @@ Meaningful research begins with clear questions, disciplined methods, and sustai
 
 ## Current Status
 
-Active build stage: four repositories completed across readiness and analysis phases, with longitudinal and cognition-linked projects next in development.
+Active build stage: six repositories completed across readiness, analysis, temporal, and cognition-mapping phases, with predictive modelling and reproducibility projects next in development.
 
 ---
 
