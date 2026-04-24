@@ -40,9 +40,9 @@ Completed temporal analysis project examining acute and post-acute functional co
 
 Completed brain-behaviour analysis project testing how psilocybin-related network reorganization aligns with cognitive performance, participant response profiles, and reproducible neural-cognitive associations.
 
-### psilocybin_repo5-reproducibility-analysis (upcoming)
+### psilocybin_repo5-reproducibility-analysis
 
-Evaluate how preprocessing and analytical decisions influence conclusions in psilocybin neuroimaging research.
+Completed methods project evaluating how preprocessing, atlas selection, statistical thresholds, and analytical decisions influence conclusions in psilocybin neuroimaging research.
 
 ---
 
@@ -64,34 +64,39 @@ Completed cognition-focused analysis project linking vestibular-network organiza
 
 Completed predictive modelling project demonstrating how vestibular-network features can forecast spatial cognition outcomes using benchmark models, cross-validation, interpretability workflows, and robustness testing.
 
-### vestibular-network_repo5-reproducibility-analysis (upcoming)
+### vestibular-network_repo5-reproducibility-analysis
 
-Evaluate how preprocessing, ROI definitions, and modelling choices influence conclusions in vestibular-network analyses.
+Completed methods project evaluating how preprocessing, ROI definitions, modelling strategies, and statistical decisions influence conclusions in vestibular-network analyses.
+
+---
+
+## Cross-Track Findings and Learnings
+
+### Scientific Findings
+
+- Brain-behaviour relationships can be studied meaningfully through scalable network-level workflows.
+- Cognitive outcomes are shaped not only by brain state, but by variability across individuals.
+- Functional reorganization appears measurable across both altered-state and sensory-system domains.
+- Predictive modelling and association analyses provide complementary insights rather than competing ones.
+- Reproducibility checks are essential because some conclusions remain robust while others depend on pipeline choices.
+
+### Practical Learnings
+
+- Strong research questions matter more than overly complex tooling.
+- Public repositories can function as evidence of scientific readiness when structured well.
+- Lightweight computational workflows can still produce portfolio-grade outputs.
+- Alternating thematic tracks helps sustain breadth without losing depth.
+- Transparent iteration improves both technical skill and methodological maturity.
 
 ---
 
 ## Build Strategy
 
-Repositories are being developed in alternating sequence across both tracks to demonstrate sustained focus in:
+Repositories were developed in alternating sequence across both tracks to demonstrate sustained focus in:
 
 - psychedelic neuroplasticity
 - vestibular-spatial network neuroscience
 
-Current completed progression:
-
-1. psilocybin_repo1
-2. vestibular-network_repo1
-3. psilocybin_repo2
-4. vestibular-network_repo2
-5. psilocybin_repo3
-6. vestibular-network_repo3
-7. psilocybin_repo4
-8. vestibular-network_repo4
-
-Planned next phase:
-
-9. psilocybin_repo5
-10. vestibular-network_repo5
 
 ## Why This Organization Exists
 
@@ -99,7 +104,7 @@ Meaningful research begins with clear questions, disciplined methods, and sustai
 
 ## Current Status
 
-Active build stage: eight repositories completed across readiness, analysis, temporal, cognition-mapping, brain-behaviour, and predictive modelling phases, with final reproducibility projects next in development.
+Portfolio complete: ten repositories completed across readiness, analysis, temporal, cognition-mapping, brain-behaviour, predictive modelling, and reproducibility phases.
 
 ## Maintained By
 
